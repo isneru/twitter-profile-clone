@@ -1,4 +1,4 @@
-## [Twitter Profile Clone with React](https://twitter-profile-clone-isneru.netlify.app) deployed with Netlify
+## [Twitter Profile Clone with React](https://twitter-profile-clone-isneru.netlify.app) (deployed with Netlify)
 
 
 - The main goal of this project is to improve my CSS and responsive skills.
